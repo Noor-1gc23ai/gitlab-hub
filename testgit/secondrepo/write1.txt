@@ -1,1 +1,2 @@
 this is my test of git
+changes made to write1.txt
